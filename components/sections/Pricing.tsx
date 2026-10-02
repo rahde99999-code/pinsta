@@ -11,7 +11,7 @@ const products = [
     badge: "Best Seller",
     badgeColor: "yellow" as const,
     featured: true,
-    image: "/pin-karakter.jpg",
+    image: "/pin1.jpeg",
     bgColor: "bg-tertiary",
   },
   {
@@ -21,7 +21,7 @@ const products = [
     badge: "New",
     badgeColor: "violet" as const,
     featured: false,
-    image: "/pin-logo.jpg",
+    image: "/pin2.jpeg",
     bgColor: "bg-accent",
   },
   {
@@ -31,7 +31,7 @@ const products = [
     badge: "Hemat",
     badgeColor: "mint" as const,
     featured: false,
-    image: "/custom-pin.jpeg",
+    image: "/pin-custom4.4.jpeg",
     bgColor: "bg-quaternary",
   },
   {
@@ -41,7 +41,7 @@ const products = [
     badge: "Hemat",
     badgeColor: "mint" as const,
     featured: false,
-    image: "/sticker-spiderman.jpeg",
+    image: "/pin-custom.jpeg",
     bgColor: "bg-quaternary",
   },
   {

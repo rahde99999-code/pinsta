@@ -39,10 +39,12 @@ export function Hero() {
             </p>
 
             <div className="flex flex-wrap gap-4 pt-4">
-              <Button variant="primary" size="lg">
-                Mulai Sekarang
-                <ArrowRight className="h-5 w-5" />
-              </Button>
+              <a href="#pricing">
+                <Button variant="primary" size="lg">
+                  Ayo Beli Sekarang
+                  <ArrowRight className="h-5 w-5" />
+                </Button>
+              </a>
             </div>
           </div>
 
