@@ -5,8 +5,8 @@
 // ============================================================
 const photos = [
   "/ijin-kompe.jpeg",
-  "/jarjit-halal.jpeg",
-  "/belum-saatnya.jpeg",
+  "/anak-kecil.jpeg",
+  "/wokeh-danamasuk.jpeg",
   "/jarjit-sus.jpeg",
   "/pak-vincent.jpeg",
 ]

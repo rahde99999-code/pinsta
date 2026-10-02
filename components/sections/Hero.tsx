@@ -35,8 +35,7 @@ export function Hero() {
             </h1>
 
             <p className="font-body text-lg text-muted-foreground max-w-md">
-              Pinsta adalah design system yang menggabungkan
-              keteraturan grid dengan kekacauan dekorasi yang menyenangkan.
+                Pin & stiker unik untuk bikin laptop, tas, botol, dan barang favoritmu jadi lebih personal.
             </p>
 
             <div className="flex flex-wrap gap-4 pt-4">

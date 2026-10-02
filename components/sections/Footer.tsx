@@ -143,15 +143,6 @@ export function Footer() {
           </div>
         </div>
       </div>
-
-      {/* ===== Copyright ===== */}
-      <div className="border-t-2 border-foreground bg-muted">
-        <div className="container max-w-6xl py-6 text-center">
-          <p className="font-body text-sm text-muted-foreground">
-            © 2026 PINSTA. Dibuat dengan 💜 dan banyak bentuk primitif.
-          </p>
-        </div>
-      </div>
     </footer>
   )
 }
