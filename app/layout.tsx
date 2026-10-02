@@ -16,7 +16,7 @@ const plusJakarta = Plus_Jakarta_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Playful Geometric Design System",
+  title: "Pinsta - Pin & Stiker Unik",
   description: "Design system yang playful, tactile, dan penuh energi.",
 }
 
