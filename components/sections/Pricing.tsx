@@ -127,7 +127,7 @@ function ProductCard({ product, i }: { product: typeof products[0]; i: number })
         </p>
 
         <a
-          href={`https://wa.me/6281234567890?text=Halo, saya mau pesan ${product.name} (${product.price})`}
+          href={`https://wa.me/6285943551536?text=Halo, saya mau pesan ${product.name} (${product.price})`}
           target="_blank"
           rel="noopener noreferrer"
           className="block"
@@ -149,14 +149,6 @@ function ProductCard({ product, i }: { product: typeof products[0]; i: number })
 export function Pricing() {
   return (
     <section id="pricing" className="relative py-24 overflow-hidden">
-      {/* Dekorasi: Foto bulat di kanan */}
-      <div className="absolute -top-10 -right-10 w-72 h-72 rounded-full border-[3px] border-foreground overflow-hidden shadow-pop rotate-[15deg] hover:rotate-0 transition-transform duration-300 ease-bounce-out pointer-events-none">
-        <img
-          src="/dekorasi-bulat.jpg"
-          alt="Dekorasi produk"
-          className="w-full h-full object-cover"
-        />
-      </div>
 
       {/* Dekorasi: Blob di kiri bawah */}
       <div className="absolute bottom-20 left-0 w-48 h-48 rounded-blob bg-quaternary border-2 border-foreground opacity-30 pointer-events-none" />

@@ -19,7 +19,7 @@ const footerLinks = [
     links: [
       { label: "Bali, Indonesia", href: "#" },
       { label: "Senin–Sabtu, 09.00–21.00", href: "#" },
-      { label: "0812-3456-7890", href: "https://wa.me/6281234567890" },
+      { label: "0859-4355-1536", href: "https://wa.me/6285943551536" },
       { label: "halo@pinsta.id", href: "mailto:halo@pinsta.id" },
     ],
   },
@@ -70,7 +70,7 @@ export function Footer() {
           </p>
 
           <a
-            href="https://wa.me/6281234567890?text=Halo, saya mau tanya soal produk PINSTA"
+            href="https://wa.me/6285943551536?text=Halo, saya mau tanya soal produk PINSTA"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block"
@@ -132,7 +132,7 @@ export function Footer() {
               <Instagram className="h-5 w-5" />
             </a>
             <a
-              href="https://wa.me/6281234567890"
+              href="https://wa.me/6285943551536"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="WhatsApp"
@@ -143,6 +143,7 @@ export function Footer() {
           </div>
         </div>
       </div>
+
     </footer>
   )
 }
